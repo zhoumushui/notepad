@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">天启便签</string>
+    <string name="list_name">便签列表</string>
+    <string name="edit_name">编辑便签</string>
+    <string name="about_name">关于作者</string>
+    <string name="show_name">查看便签</string>
+    <string name="new_name">新建便签</string>
+    <string name="menu_add">新建</string>
+    <string name="menu_delete">删除</string>
+    <string name="menu_about">关于</string>
+    <string name="menu_exit">退出</string>
+
+    <string name="hello_world">欢迎使用天启便签</string>
+    <string name="action_about">关于</string>
+    <string name="action_new">新建</string>
+    <string name="action_delete">删除</string>
+    <string name="action_exit">退出</string>
+
+    <string name="no_content">没有便签</string>
+</resources>
